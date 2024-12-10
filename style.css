@@ -1,0 +1,39 @@
+header{
+    background-color:rgb(247, 242, 242);
+}
+.nav-item a{
+    color: #8989f5;
+}
+.perfil{
+    color: #00aeff;
+}
+
+#fecha{
+    font-family:  "Playwrite HR Lijeva", serif;
+    color:#220cec;
+    margin: 5px 0;
+    display: flex;
+    align-items: start;
+    
+}
+.col-md-5 offset-md-1 mb-3{
+    justify-content: center;
+}
+.row{
+    justify-content: space-around;
+}
+
+#button:hover{
+    color: aqua;
+    font-family:  "Playwrite HR Lijeva", serif;
+    border-radius: 60%;
+
+}
+.col:hover{
+    background: #80808650;
+	transition: all .3s ease-in-out;-webkit-transition: all .3s ease-in-out;
+}
+.boton-perfil{
+    background-color: #220cec;
+}
+
